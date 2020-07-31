@@ -13,6 +13,7 @@
 		9EF5555E24CB2EA5004F1010 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9EF5555D24CB2EA5004F1010 /* Assets.xcassets */; };
 		9EF5556124CB2EA5004F1010 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9EF5556024CB2EA5004F1010 /* Preview Assets.xcassets */; };
 		9EF5556424CB2EA5004F1010 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9EF5556224CB2EA5004F1010 /* LaunchScreen.storyboard */; };
+		9EF5556C24D1234A004F1010 /* AddView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9EF5556B24D1234A004F1010 /* AddView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		9EF5556024CB2EA5004F1010 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		9EF5556324CB2EA5004F1010 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9EF5556524CB2EA5004F1010 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9EF5556B24D1234A004F1010 /* AddView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddView.swift; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				9EF5555724CB2EA0004F1010 /* AppDelegate.swift */,
 				9EF5555924CB2EA0004F1010 /* SceneDelegate.swift */,
+				9EF5556B24D1234A004F1010 /* AddView.swift */,
 				9EF5555B24CB2EA0004F1010 /* ContentView.swift */,
 				9EF5555D24CB2EA5004F1010 /* Assets.xcassets */,
 				9EF5556224CB2EA5004F1010 /* LaunchScreen.storyboard */,
@@ -146,6 +149,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9EF5556C24D1234A004F1010 /* AddView.swift in Sources */,
 				9EF5555824CB2EA0004F1010 /* AppDelegate.swift in Sources */,
 				9EF5555A24CB2EA0004F1010 /* SceneDelegate.swift in Sources */,
 				9EF5555C24CB2EA0004F1010 /* ContentView.swift in Sources */,
